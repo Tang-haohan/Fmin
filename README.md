@@ -1,4 +1,4 @@
-# TheWorstWorks
+# Fmin
 It's a test project on Python.
 Let's debug the programs.
 Obviously it's all-free.
