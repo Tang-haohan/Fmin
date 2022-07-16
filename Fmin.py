@@ -31,4 +31,5 @@ if (keyrun % 1323)==0:
 
 else:
     print("错误的注册码")
+input()
 
